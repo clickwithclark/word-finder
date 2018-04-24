@@ -1,0 +1,28 @@
+{
+  "name": "word-finder",
+  "version": "0.2.0",
+  "description": "Text processing: find possible words within a subset of a language.",
+  "author": "Josh Anderson <j@also.engineering>",
+  "script": {
+    "test": "mocha ./test/tests.js"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fetmar/word-finder"
+  },
+  "bugs": {
+    "url": "https://github.com/fetmar/word-finder/issues"
+  },
+  "keywords": [
+    "contract",
+    "validation",
+    "typed",
+    "variables"
+  ],
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "license": "GPL-3.0"
+}
